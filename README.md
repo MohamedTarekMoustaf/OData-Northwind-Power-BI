@@ -28,7 +28,7 @@ The goal of this project is to:
 ## 🔗 Data Source
 
 Live OData Feed:  
-`(https://services.odata.org/V3/Northwind/Northwind.svc/)`
+https://services.odata.org/V3/Northwind/Northwind.svc
 
 Entities used:
 - Customers
