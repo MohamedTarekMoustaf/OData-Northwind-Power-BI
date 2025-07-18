@@ -4,8 +4,7 @@
 
 This repository contains an interactive Power BI dashboard built using the **Northwind OData service**, which simulates a retail business with customers, orders, products, and employees.
 
-![Dashboard Overview](assets/dashboard-overview.png)
-
+<img width="1918" height="1015" alt="0" src="https://github.com/user-attachments/assets/841a88ff-d11b-407c-a63d-710487334fc0" />
 ---
 
 ## 🔍 Project Objective
