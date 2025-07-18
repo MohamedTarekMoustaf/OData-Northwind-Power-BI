@@ -43,10 +43,10 @@ Entities used:
 ## 📊 Dashboard Features
 
 ### 🧾 Top Customers by Sales
-![Top Customers](assets/top-customers.png)
+
 
 ### 🌍 Sales by Region or Country
-![Sales by Region](assets/sales-by-region.png)
+
 
 ### 📦 Additional Visuals
 - Orders by employee
